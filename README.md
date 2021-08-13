@@ -1,6 +1,8 @@
 # Nodejs Fastify Demo
 
-## Technologies used
+## Technologies
 - Webpack
-- Fastify
 - Typescript
+- Fastify
+  - CORS
+  - Common routes
