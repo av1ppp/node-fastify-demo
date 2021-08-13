@@ -1,4 +1,4 @@
-![Fastify logo](https://www.fastify.io/images/fastify-logo-inverted.2180cc6b1919d47a.png)
+![Fastify logo](https://www.fastify.io/images/fastify-logo-menu.d13f8da7a965c800.png)
 # Nodejs Fastify Demo
 
 ## Technologies
